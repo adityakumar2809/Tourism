@@ -7,7 +7,7 @@
 
 nav{ 
     position:fixed;
-    z-index:2;
+    z-index:3;
 }
 
 .subfooter{
@@ -25,4 +25,31 @@ nav{
 	height: 7em;
 	font-size:20px;
  	color: black;
+}
+
+
+
+.forms{
+
+	text-align: center;
+	width:500px;
+	background-color: rgba(0,0,0,0.5);
+	height: 300px;
+	
+}
+
+.button{
+	margin-bottom: 10px;
+	
+	
+}
+
+
+
+.absolute {
+    position: absolute;
+    z-index: 2;
+    top: 100px;
+   	
+    width: 100%;
 }
