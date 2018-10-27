@@ -40,8 +40,6 @@ nav{
 
 .button{
 	margin-bottom: 10px;
-	
-	
 }
 
 
@@ -50,6 +48,5 @@ nav{
     position: absolute;
     z-index: 2;
     top: 100px;
-   	
     width: 100%;
 }
