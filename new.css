@@ -51,11 +51,6 @@ nav{
     width: 100%;
 }
 
-@font-face {
-font-family: "font_";
-src: url("font_.ttf");
-src: 
-url("css/fonts/Harabara.woff") format("woff"),
-url("css/fonts/Harabara.otf") format("opentype"),
-url("css/fonts/Harabara.svg#filename") format("svg");
+.thumbnail:hover {
+   transform: scale(1.1);
 }
