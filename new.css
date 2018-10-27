@@ -1,0 +1,7 @@
+.bgimg{
+	background-image: url("first.jpg");
+	margin-top: 0px;
+	background-repeat: no-repeat;
+	background-size:cover;
+
+}
