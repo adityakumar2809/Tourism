@@ -1,0 +1,33 @@
+body{
+	background-image: url( images/sample_image.jpg);
+	font-size: 50px;
+}
+
+.forms{
+	text-align: center;
+	width:500px;
+	background-color: rgba(0,0,0,0.5);
+	height: 300px;
+	
+}
+
+.button{
+	margin-bottom: 10px;
+	
+	
+}
+
+button{
+	font-size: 20px;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	
+
+
+}
+
+button:hover{
+	background-color: blue;
+}

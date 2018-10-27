@@ -3,5 +3,26 @@
 	margin-top: 0px;
 	background-repeat: no-repeat;
 	background-size:cover;
+}
 
+nav{ 
+    position:fixed;
+    z-index:2;
+}
+
+.subfooter{
+	background-color: black;
+	line-height: 2.2em;
+	height: 6em;
+	font-size:20px;
+ 	color: white;
+}
+
+
+.footer{
+	background-color: white;
+	line-height: 2.2em;
+	height: 6em;
+	font-size:20px;
+ 	color: black;
 }
